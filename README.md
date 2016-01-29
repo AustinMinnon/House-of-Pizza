@@ -1,7 +1,7 @@
 # _House of Pizza_
 
 #### _1.26.2016_
-    _Place an order for pizza tonight with this program. Calculates price for you, and will display a reciept._
+    *Place an order for pizza tonight with this program. Calculates price for you, and will display a reciept.*
 
 #### By _**Austin J. Minnon**_
 
