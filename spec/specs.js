@@ -9,6 +9,6 @@ describe('Order', function() {
   });
   it("adds the pizzaType method to all Orders", function() {
     var testOrder = new Order("pepperoni","small","thin","2ltr")
-    expect(testOrder.pizzaType()).to.equal("Your thin crust pepperoni pizza, small will be ready in about 15 minutes");
+    expect(testOrder.pizzaType()).to.equal("thin crust pepperoni pizza, small, 2ltr");
   });
 });
