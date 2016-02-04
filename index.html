@@ -19,7 +19,7 @@
     <div class="container">
       <h2>Welcome! People Order Our Pizzas</h2>
       <h3>Our pies come with golden mozzarella cheese, crisp crust, and the finest marinara sauce.</h3>
-      <h4>*specialty pies are custom to the house recipe</h3>
+      <h4>*Input fields are case sensitive!*</h3>
       <div class="row">
         <div class="col-md-6">
           <h3>Pick your toppings:</h3>
@@ -29,11 +29,11 @@
               <input type="text" class="form-control" id="new-topping">
             </div>
             <div class="form-group">
-              <label for="size">Size:(Sm,Med,Lg)</label>
+              <label for="size">Size:(sm,md,lg)</label>
               <input type="text" class="form-control" id="new-size">
             </div>
             <div class="form-group">
-              <label for="new-crust">Crust:(reggae,thin,deep)</label>
+              <label for="new-crust">Crust:(reg,thin,deep)</label>
               <input type="text" class="form-control" id="new-crust">
             </div>
             <div class="form-group">
@@ -53,10 +53,11 @@
             <div id="show-order">
               <h2></h2>
 
-              <p>Toppings: <span class="topping"></span></p>
-              <p>Size: <span class="size"></span></p>
-              <p>Crust: <span class="crust"></span></p>
-              <p>Add Ons: <span class="addon"></span></p>
+              <p>Toppings: <span class="topping"></span><br></p>
+              <p>Size: <span class="size"></span><br></p>
+              <p>Crust: <span class="crust"></span><br></p>
+              <p>Add Ons: <span class="addon"></span><br></p>
+              <p>Total Cost: <span class="total"></span></p>
             </div>
           </div>
 
