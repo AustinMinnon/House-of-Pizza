@@ -1,16 +1,16 @@
 # _House of Pizza_
 #### _1.26.2016_
-    *Place an order for pizza tonight with this program. Calculates price for you, and will display a reciept.*
+    *Place an order for pizza with web application. It will calculate a price for you, and will display a reciept.*
 
 #### By _**Austin J. Minnon**_
 
 ## Description:
-_Depending on what kind of pizza you order, prices vary. Toppings and select crusts are an extra charge. "Worth the add-on"; is our motto_
+_Depending on what kind of pizza you order, prices vary. Toppings and select crusts are an extra charge. _
 
 ## Setup/Installation Requirements
 
 *_Clone this repository from https://github.com/Whi7ee/OOP-Codereview4-houseofpizza
-*_Open project folder, open index.html to view; modern browsers only_
+*_Inside project folder, open index.html in a modern browser_
 
 ## Known Bugs
 
