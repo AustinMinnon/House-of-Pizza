@@ -1,7 +1,7 @@
 # _House of Pizza_
 
 #### _1.26.2016_
-    *Place an order of pizza with this program.*
+    Place an order of pizza with this program.
 
 #### By: _**Austin J. Minnon**_
 
