@@ -1,0 +1,6 @@
+{
+  "name": "House-of-pizza",
+  "tagline": "Object Oriented Programming - House of Pizza",
+  "body": "# _House of Pizza_\r\n\r\n#### _1.26.2016_\r\n    Place an order of pizza with this program.\r\n\r\n#### By: _**Austin J. Minnon**_\r\n\r\n## Description:\r\n_Depending on what kind of pizza you order, prices vary. Toppings and select crusts are an extra charge. \"Worth the add-on\"; is our motto_\r\n\r\n## Setup/Installation Requirements:\r\n\r\n*_Clone this repository from https://github.com/Whi7ee/OOP-Codereview4-houseofpizza_\r\n*_Open project folder, open index.html to view; modern browsers only_\r\n\r\n## Known Bugs\r\n_No known bugs_\r\n\r\n## Further exploration idea:\r\n_Add pricing guide_\r\n_Add styling_\r\n\r\n## Support and contact details\r\n_Contact me about any: Questions, Suggestions, or Bugs through GitHub comments_\r\n\r\n## Technologies Used\r\n* HTML\r\n* CSS\r\n* JS\r\n* Mocha\r\n* Chai\r\n* Spec Runner\r\n\r\n### GitHub Pages\r\nhttp://austinminnon.github.io/House-of-Pizza\r\n\r\n### License\r\n*GPL License*\r\n\r\nCopyright (c) 2016 **_Austin J. Minnon_**\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
