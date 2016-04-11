@@ -31,6 +31,9 @@ _Contact me about any: Questions, Suggestions, or Bugs through GitHub comments_
 * Chai
 * Spec Runner
 
+### GitHub Pages
+http://austinminnon.github.io/House-of-Pizza
+
 ### License
 *GPL License*
 
