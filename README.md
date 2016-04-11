@@ -1,6 +1,6 @@
 # _House of Pizza_
 #### _1.26.2016_
-    *Place an order for pizza with web application. It will calculate a price for you, and will display a reciept.*
+*Place an order for pizza with web application. It will calculate a price for you, and will display a reciept.*
 
 #### By _**Austin J. Minnon**_
 
